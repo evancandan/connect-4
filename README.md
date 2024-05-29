@@ -1,2 +1,3 @@
 # connect-4
-connect 4 in ASM x86_64
+## Connect 4 in a lot of language:
+- C
